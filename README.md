@@ -1,4 +1,4 @@
-# stats551
+# STATS 551
 
 This is the repository for STATS 551 Bayesian Data Analysis at University of Michigan.
 
